@@ -1,6 +1,6 @@
 # quicknb
 
-Open Jupyter notebooks in web browser (read-only).
+View Jupyter notebooks in web browser without starting a Jupyter session (read-only).
 
 **Usage:**
 
